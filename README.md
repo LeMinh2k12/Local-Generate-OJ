@@ -5,7 +5,7 @@
 ## 🛠️ Yêu cầu cài đặt
 - **Trình biên dịch C++:** Cần cài đặt **MSYS2** (với bộ dịch `g++` ucrt64) để biên dịch mã nguồn của server và các bài nộp của người dùng.
 - **Windows API:** Sử dụng WinSock2 và WinHTTP (được tích hợp sẵn trong Windows SDK).
-
+- Chạy check_env.exe để xem có thể dùng không
 ## 🚀 Hướng dẫn khởi chạy
 
 ### 1. Biên dịch Server
